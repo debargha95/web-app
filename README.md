@@ -1,13 +1,9 @@
 # Creating Web Application on K2View Cloud
 
-This guide walks through the steps for creating a web application on **K2View Cloud**, specifically within the **Web** section of a Logical Unit (LU). A web application can be associated with:
-- User-created LUs
-- Reference LUs
-- Webservice-based LUs
-
+Webapplications can be added to the web section of a Logical Unit(User created, References or Webservices)
 ---
 
-## 📁 Step-by-Step Instructions
+## Step-by-Step Instructions
 
 ### 1. Navigate to the Logical Unit
 
@@ -27,7 +23,7 @@ Right-click on the **Web** folder and select **New Web App..**
 
 ### 3. Naming Convention Guidelines
 
-Follow the naming guidelines as required by **K2View Studio** when setting up the project. This ensures compatibility and consistency across the platform.
+Follow the naming guidelines as required by **K2View Studio** when setting up the project.
 
 ![Naming Guidelines](https://github.com/user-attachments/assets/dada6dac-e79d-4012-9695-0bec6dc89306)
 
@@ -35,7 +31,7 @@ Follow the naming guidelines as required by **K2View Studio** when setting up th
 
 ### 4. Select Template Type
 
-From the available options, choose **Vanilla** to create a basic web application scaffold.
+From the available options, choose **Vanilla** to create a basic web application.
 
 ![Template Selection](https://github.com/user-attachments/assets/67fe29f6-3173-4d8b-82e9-fe94eff72e73)
 
@@ -47,4 +43,4 @@ Once created, the web app generates the following default files:
 
 ![File Structure](https://github.com/user-attachments/assets/899ae07e-4af6-497b-8fc0-18d93da3f588)
 
-These include the main application logic, styling files, and initial HTML/JS content needed to kickstart development.
+
